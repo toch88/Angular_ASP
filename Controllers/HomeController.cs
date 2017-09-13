@@ -11,6 +11,7 @@ namespace ASP_2.Controllers
     {
         public IActionResult Index()
         {
+            
             return View();
         }
 
